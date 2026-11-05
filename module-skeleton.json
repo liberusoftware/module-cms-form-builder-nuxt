@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-form-builder-nuxt",
+  "capabilityKey": "planned:cms:form-builder",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-cms-form-builder-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/cms/nextjs/form-builder.md",
+  "presentationPlan": "projects/cms/nuxt/form-builder.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
